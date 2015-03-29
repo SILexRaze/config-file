@@ -1,7 +1,6 @@
 # /etc/zsh/zshenv ou ~/.zshenv
 # Fichier de configuration de zsh, lu au lancement de tout shell Zsh
 # Formation Debian GNU/Linux par Alexis de Lattre
-# http://formation-debian.via.ecp.fr/
 
 # Le PATH = répertoires dans lequels le shell va chercher les commandes
 # ATTENTION : le répertoire courant ne fait pas partie du PATH
