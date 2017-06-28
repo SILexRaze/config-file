@@ -5,5 +5,5 @@ But also vim configuration, colorscheme (called "cobalt") integration.
 In order to execute this file juste copy/paste this :
 ```
 wget https://raw.githubusercontent.com/SILexRaze/config-file/master/vimrc
-sudo sh $(wget https://raw.githubusercontent.com/SILexRaze/config-file/master/install.sh)
+sh -c "$(wget https://raw.githubusercontent.com/SILexRaze/config-file/master/install.sh -O -)"
 ```
