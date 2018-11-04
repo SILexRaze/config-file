@@ -1,14 +1,9 @@
 set number
+syntax on
 set background=dark
 set autoindent
-set smartindent
-syntax on
-colorscheme cobalt
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
 set nocompatible
-set fileformat=unix
-set t_Co=256
-inoremap ( ()<left>
-inoremap { {}<left>
-inoremap " ""<left>
-inoremap ' ''<left>
-inoremap [ []<left>
+set ruler
